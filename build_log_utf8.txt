@@ -1,0 +1,4 @@
+﻿
+> greenedumap-docs@1.0.0 build
+> docusaurus build
+

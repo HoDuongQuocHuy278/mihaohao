@@ -1,0 +1,15 @@
+docs:
+  - title: "Tutorial"
+    children:
+      - title: "Giới thiệu"
+        url: /intro/
+      - title: "Tổng quan"
+        url: /GettingStarted/
+      - title: "Kiến trúc phần mềm"
+        url: /Architecture/
+      - title: "Hướng dẫn cài đặt"
+        url: /Installation/
+      - title: "Plugin của dự án"
+        url: /Plugins/
+      - title: "License"
+        url: /License/ 

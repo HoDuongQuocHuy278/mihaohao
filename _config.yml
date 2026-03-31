@@ -1,0 +1,10 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: EduBridgeTrace
+description: Blockchain-based education verification system
+show_downloads: true
+github:
+  zip_url: https://github.com/vietvo371/EduBridgeTrace_docs/zipball/main
+  tar_url: https://github.com/vietvo371/EduBridgeTrace_docs/tarball/main
+  repository_url: https://github.com/vietvo371/EduBridgeTrace_docs 

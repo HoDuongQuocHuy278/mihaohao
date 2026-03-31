@@ -1,0 +1,12 @@
+﻿
+> greenedumap-docs@1.0.0 build
+> docusaurus build
+
+
+ ----------------------                             Update available         3.1.1 ΓåÆ 3.9.2                                     To upgrade              Docusaurus            packages with             the latest           version, run the           following                command:             `yarn upgrade          @docusaurus/core        @latest @docusau        rus/preset-class        ic@latest @docus        aurus/module-typ        e-aliases@latest        @docusaurus/tsco          nfig@latest           @docusaurus/type           s@latest`                                 ---------------------- 
+
+[INFO] [vi] Creating an optimized production build...
+
+
+[INFO] Docusaurus version: 3.1.1
+Node version: v24.7.0
